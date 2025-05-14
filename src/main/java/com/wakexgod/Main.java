@@ -11,7 +11,10 @@ public class Main {
         logger.info("Start program...");
 
         Console.log("Task A");
-        FrequencyAnalyzer.execute();
+        // FrequencyAnalyzer.execute();
+
+        Console.log("Task C");
+        CleanJavaCode.execute();
 
         // Test Log4j2:
         logger.info("End program.");
